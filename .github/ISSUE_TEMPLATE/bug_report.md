@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug, enhancement, help wanted, good first issue, question
+labels: bug, enhancement, good first issue, help wanted, question
 assignees: ''
 
 ---
