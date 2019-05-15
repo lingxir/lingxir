@@ -35,3 +35,35 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+public class NoteEditText extends EditText {
+ 
+    private Context context;
+    private boolean initialized;
+    // 画笔 用来画下划线
+    private Paint paint;
+    private Paint mNumPaint;
+    private Paint mRectPaint;
+    private int mNumberLength;
+    private float mTextSize; // sp
+ 
+    private ScrollView mScrollView;
+ 
+    public static final String KEY_TEXT_SIZE = "textSize";
+    private String KEY_NUMBER_LENGTH = "_numberLength";
+    public static final String KEY_SHOW_LINE = "showLine";
+    public static final String KEY_SHOW_LINE_NUMBER = "showLineNumber";
+ 
+    public static final float DEFAULT_VALUE_TEXT_SIZE = 20;
+    public static final boolean DEFAULT_VALUE_SHOW_LINE = true;
+    public static final boolean DEFAULT_VALUE_SHOW_LINE_NUMBER = false;
+    private boolean showLine;
+    private boolean showLineNumber;
+ 
+    private int mPaddingLeft;
+ 
+    private static final int LINE_OFFSET = 50;
+ 
+    float displayPaddingLeft;
+ 
+    public NoteEditText(Context context, AttributeSet attrs
