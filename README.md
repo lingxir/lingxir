@@ -1,3 +1,4 @@
+background:https://github.com/lingxir/lingxir.github.io/blob/lingxir-patch-2/%E8%90%BD%E9%9C%9C_109951163990747016.jpg
 #꧁凌؀希꧂博客
 ##adb方法
 ![ace](https://raw.githubusercontent.com/lingxir/lingxir.github.io/42cec4b115529cc3e0ef27ba465868bba87c0f0d/Screenshot_20190606_044708_com.tencent.qqlive.jpg)
