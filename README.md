@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html>
-<body>
-<?php
-<h1>
+#꧁凌؀希꧂博客
+##adb方法
 ![ace](https://raw.githubusercontent.com/lingxir/lingxir.github.io/42cec4b115529cc3e0ef27ba465868bba87c0f0d/Screenshot_20190606_044708_com.tencent.qqlive.jpg)
-#꧁凌؀希꧂博客</h1>
 
 ⒈教你如何使用安卓手机给另一部安卓手机刷机相信大家都熟知如何使用电脑来为安卓手机进行刷机。
 可大家有尝试过用手机给另一部手机刷机吗？
@@ -21,6 +17,3 @@ host便可以通过OTG数据线和标准数据线来连接target了，
 后面host就可以在终端下通过使用这些命令行工具来给target进行刷机了。
 本人使用魅蓝2（host）来为米4移动4G版（target）进行刷机测试完美通过，
 理论上针对可以进fastboot模式的安卓机都可以(对于有bl锁的机器，部分机型可解锁)
-?>
-</body>
-</html>
