@@ -1,4 +1,5 @@
-#╰凌·希的博客
+![ ](https://raw.githubusercontent.com/lingxir/lingxir.github.io/42cec4b115529cc3e0ef27ba465868bba87c0f0d/Screenshot_20190606_044708_com.tencent.qqlive.jpg)
+#╰꧁凌؀希꧂的博客
 
 ⒈教你如何使用安卓手机给另一部安卓手机刷机相信大家都熟知如何使用电脑来为安卓手机进行刷机。可大家有尝试过用手机给另一部手机刷机吗？
 ⒉（这里主要说明的是adb+fastboot方式）前提准备：两部安卓手机（系统版本最好是安卓4.4.4及以上的，至少有一台支持otg功能，host必须获取了root权限）          
