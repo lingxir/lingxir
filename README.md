@@ -1,3 +1,14 @@
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+
 <html>
 <body style="background-color:https://github.com/lingxir/lingxir.github.io/blob/lingxir-patch-2/%E8%90%BD%E9%9C%9C_109951163990747016.jpg">
 </body>
